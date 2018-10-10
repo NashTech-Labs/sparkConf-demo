@@ -1,8 +1,8 @@
-# sparkConfig Example
+# sparkConf Example
 
 Simple Spark Assignment =========>
 This example is the implementation of SparkConf
-Clone it form the url : https://github.com/Abhiknoldur/sparks-assignment.git
+Clone it form the url : https://github.com/knoldus/sparkConf-demo.git
 
 Spark Dependency :libraryDependencies += "org.apache.spark" %% "spark-core" % "2.3.0"
 Scala version :2.11.12
